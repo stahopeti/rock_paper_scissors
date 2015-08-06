@@ -1,0 +1,22 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2015.08.06., 13:29:55
+    Author     : Lajos
+*/
+
+#pane{
+    
+    -fx-background-image: url("maxresdefault.jpg");
+    
+    
+}
+
+#rbutton{
+    
+    -fx-text-fill: #FFFFFF;
+    
+}
